@@ -1,4 +1,6 @@
-![Hacker GIF](https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 # 💫 About Me:
 Soy un apasionado desarrollador web y programador con un profundo interés en la ciberseguridad. Me dedico a crear soluciones innovadoras y seguras en el mundo digital. <br>
 
