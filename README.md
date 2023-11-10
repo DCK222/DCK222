@@ -4,9 +4,8 @@
        alt="snake" /></a>
 </div>
 
+<picture><img width = 50px src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" ></picture> 
 
-
-<picture><img align="center"  src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 ##  About Me :
  
 Soy un apasionado desarrollador web y programador con un profundo interés en la ciberseguridad. Me dedico a crear soluciones innovadoras y seguras en el mundo digital. <br>
