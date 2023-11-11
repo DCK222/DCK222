@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-![programacion-python-nivel-2](https://github.com/DCK222/DCK222/assets/62794988/462c7b0e-2739-4381-bb1b-167eea5f20a1)
+![programacion-python-nivel-2](https://github.com/DCK222/DCK222/assets/62794988/462c7b0e-2739-4381-bb1b-167eea5f20a1]
 
 
 
