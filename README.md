@@ -5,12 +5,12 @@
 
 <picture><img width = 50px src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" ></picture> 
 
-## ⚠️ About Me :
+# ⚠️ About Me :
  
 Soy un apasionado desarrollador web y programador con un profundo interés en la ciberseguridad. Me dedico a crear soluciones innovadoras y seguras en el mundo digital. <br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alegard22) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alegard_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejandro-garcia-dorronsoro-819aa2290/) 
 
 # 💻 Tech Stack:
